@@ -1,0 +1,964 @@
+[
+  {
+    "yesterday": {
+      "data": [
+        {
+          "current": {
+            "maxTemp": "11.3",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "15"
+            }
+          },
+          "header": "1am"
+        },
+        {
+          "current": {
+            "maxTemp": "10.2",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "11"
+            }
+          },
+          "header": "2am"
+        },
+        {
+          "current": {
+            "maxTemp": "9.6",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "11"
+            }
+          },
+          "header": "3am"
+        },
+        {
+          "current": {
+            "maxTemp": "9.3",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "13"
+            }
+          },
+          "header": "4am"
+        },
+        {
+          "current": {
+            "maxTemp": "7.5",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "11"
+            }
+          },
+          "header": "5am"
+        },
+        {
+          "current": {
+            "maxTemp": "6.6",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "NW",
+              "gustSpeed": "7"
+            }
+          },
+          "header": "6am"
+        },
+        {
+          "current": {
+            "maxTemp": "7.3",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "7"
+            }
+          },
+          "header": "7am"
+        },
+        {
+          "current": {
+            "maxTemp": "10.2",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "11"
+            }
+          },
+          "header": "8am"
+        },
+        {
+          "current": {
+            "maxTemp": "14.6",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "19"
+            }
+          },
+          "header": "9am"
+        },
+        {
+          "current": {
+            "maxTemp": "17.1",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "NE",
+              "gustSpeed": "15"
+            }
+          },
+          "header": "10am"
+        },
+        {
+          "current": {
+            "maxTemp": "20.4",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "19"
+            }
+          },
+          "header": "11am"
+        },
+        {
+          "current": {
+            "maxTemp": "21.9",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "22"
+            }
+          },
+          "header": "Noon"
+        },
+        {
+          "current": {
+            "maxTemp": "23.3",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "NE",
+              "gustSpeed": "28"
+            }
+          },
+          "header": "1pm"
+        },
+        {
+          "current": {
+            "maxTemp": "24.4",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "26"
+            }
+          },
+          "header": "2pm"
+        },
+        {
+          "current": {
+            "maxTemp": "22.9",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "31"
+            }
+          },
+          "header": "3pm"
+        },
+        {
+          "current": {
+            "maxTemp": "23.0",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "30"
+            }
+          },
+          "header": "4pm"
+        },
+        {
+          "current": {
+            "maxTemp": "24.7",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "24"
+            }
+          },
+          "header": "5pm"
+        },
+        {
+          "current": {
+            "maxTemp": "26.0",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "24"
+            }
+          },
+          "header": "6pm"
+        },
+        {
+          "current": {
+            "maxTemp": "26.2",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "37"
+            }
+          },
+          "header": "7pm"
+        },
+        {
+          "current": {
+            "maxTemp": "23.3",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "41"
+            }
+          },
+          "header": "8pm"
+        },
+        {
+          "current": {
+            "maxTemp": "21.3",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "39"
+            }
+          },
+          "header": "9pm"
+        },
+        {
+          "current": {
+            "maxTemp": "20.1",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "39"
+            }
+          },
+          "header": "10pm"
+        },
+        {
+          "current": {
+            "maxTemp": "18.4",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "35"
+            }
+          },
+          "header": "11pm"
+        },
+        {
+          "current": {
+            "maxTemp": "14.4",
+            "rainFall": 0.0,
+            "wind": {
+              "direction": "SW",
+              "gustSpeed": "30"
+            }
+          },
+          "header": "Midnight"
+        }
+      ],
+      "label": "Yesterday",
+      "notes": [
+        {
+          "heading": "Peak wind gust",
+          "text": "The direction and speed of the highest gust that was recorded in the hour ended at the time shown."
+        },
+        {
+          "heading": "Temperature",
+          "text": "The temperature recorded at the time shown."
+        },
+        {
+          "heading": "Rainfall",
+          "text": "The total rainfall that fell in the hour ended at the time shown."
+        },
+        {
+          "heading": "",
+          "text": "Observations recorded at Christchurch Airport (AWS-93781)"
+        }
+      ],
+      "totals": {
+        "maxTemp": "highest 26.2\u00b0C",
+        "minTemp": "",
+        "peakWindGust": "maximum 41km/h",
+        "rainfall": "total 0.0mm"
+      }
+    },
+    "last_30_days": {
+      "data": [
+        {
+          "current": {
+            "maxTemp": "18.8",
+            "minTemp": "13.0",
+            "rainFall": "8.2",
+            "wind": {
+              "direction": "S",
+              "gustSpeed": "39"
+            }
+          },
+          "header": "24 Dec"
+        },
+        {
+          "current": {
+            "maxTemp": "16.8",
+            "minTemp": "10.3",
+            "rainFall": "7.4",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "39"
+            }
+          },
+          "header": "25 Dec"
+        },
+        {
+          "current": {
+            "maxTemp": "15.5",
+            "minTemp": "8.6",
+            "rainFall": "5.2",
+            "wind": {
+              "direction": "S",
+              "gustSpeed": "44"
+            }
+          },
+          "header": "26 Dec"
+        },
+        {
+          "current": {
+            "maxTemp": "15.0",
+            "minTemp": "6.5",
+            "rainFall": "15.4",
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "44"
+            }
+          },
+          "header": "27 Dec"
+        },
+        {
+          "current": {
+            "maxTemp": "17.6",
+            "minTemp": "4.2",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "NE",
+              "gustSpeed": "30"
+            }
+          },
+          "header": "28 Dec"
+        },
+        {
+          "current": {
+            "maxTemp": "18.4",
+            "minTemp": "3.2",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "43"
+            }
+          },
+          "header": "29 Dec"
+        },
+        {
+          "current": {
+            "maxTemp": "18.7",
+            "minTemp": "12.2",
+            "rainFall": "0.2",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "39"
+            }
+          },
+          "header": "30 Dec"
+        },
+        {
+          "current": {
+            "maxTemp": "19.5",
+            "minTemp": "13.2",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "NE",
+              "gustSpeed": "48"
+            }
+          },
+          "header": "31 Dec"
+        },
+        {
+          "current": {
+            "maxTemp": "20.9",
+            "minTemp": "13.1",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "37"
+            }
+          },
+          "header": "01 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "17.7",
+            "minTemp": "15.0",
+            "rainFall": "3.0",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "30"
+            }
+          },
+          "header": "02 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "23.5",
+            "minTemp": "13.8",
+            "rainFall": "1.0",
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "37"
+            }
+          },
+          "header": "03 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "22.7",
+            "minTemp": "9.0",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "NE",
+              "gustSpeed": "44"
+            }
+          },
+          "header": "04 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "19.3",
+            "minTemp": "14.6",
+            "rainFall": "0.4",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "37"
+            }
+          },
+          "header": "05 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "20.3",
+            "minTemp": "13.8",
+            "rainFall": "0.2",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "37"
+            }
+          },
+          "header": "06 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "29.4",
+            "minTemp": "15.4",
+            "rainFall": "2.6",
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "43"
+            }
+          },
+          "header": "07 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "17.2",
+            "minTemp": "11.3",
+            "rainFall": "2.8",
+            "wind": {
+              "direction": "SW",
+              "gustSpeed": "44"
+            }
+          },
+          "header": "08 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "20.3",
+            "minTemp": "11.3",
+            "rainFall": "0.2",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "39"
+            }
+          },
+          "header": "09 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "20.2",
+            "minTemp": "12.7",
+            "rainFall": "1.4",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "39"
+            }
+          },
+          "header": "10 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "17.7",
+            "minTemp": "12.2",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "S",
+              "gustSpeed": "44"
+            }
+          },
+          "header": "11 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "21.3",
+            "minTemp": "13.5",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "NE",
+              "gustSpeed": "50"
+            }
+          },
+          "header": "12 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "25.1",
+            "minTemp": "16.1",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "30"
+            }
+          },
+          "header": "13 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "25.3",
+            "minTemp": "14.9",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "S",
+              "gustSpeed": "35"
+            }
+          },
+          "header": "14 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "22.4",
+            "minTemp": "15.5",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "44"
+            }
+          },
+          "header": "15 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "21.9",
+            "minTemp": "16.5",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "E",
+              "gustSpeed": "57"
+            }
+          },
+          "header": "16 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "26.7",
+            "minTemp": "14.0",
+            "rainFall": "7.8",
+            "wind": {
+              "direction": "N",
+              "gustSpeed": "63"
+            }
+          },
+          "header": "17 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "23.8",
+            "minTemp": "11.2",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "NW",
+              "gustSpeed": "65"
+            }
+          },
+          "header": "18 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "27.8",
+            "minTemp": "9.5",
+            "rainFall": "0.2",
+            "wind": {
+              "direction": "NW",
+              "gustSpeed": "76"
+            }
+          },
+          "header": "19 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "20.3",
+            "minTemp": "8.8",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "NW",
+              "gustSpeed": "61"
+            }
+          },
+          "header": "20 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "18.1",
+            "minTemp": "11.5",
+            "rainFall": "6.4",
+            "wind": {
+              "direction": "SW",
+              "gustSpeed": "46"
+            }
+          },
+          "header": "21 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "20.4",
+            "minTemp": "6.9",
+            "rainFall": "0.2",
+            "wind": {
+              "direction": "NE",
+              "gustSpeed": "44"
+            }
+          },
+          "header": "22 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "27.8",
+            "minTemp": "10.5",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "NW",
+              "gustSpeed": "65"
+            }
+          },
+          "header": "23 Jan"
+        },
+        {
+          "current": {
+            "maxTemp": "26.9",
+            "minTemp": "6.1",
+            "rainFall": "0.0",
+            "wind": {
+              "direction": "W",
+              "gustSpeed": "41"
+            }
+          },
+          "header": "24 Jan"
+        }
+      ],
+      "label": "Last 30 Days",
+      "legend": {
+        "current": "Last 30 Days"
+      },
+      "notes": [
+        {
+          "heading": "Peak wind gust",
+          "text": "The direction and speed of the highest gust that was recorded on the calendar day."
+        },
+        {
+          "heading": "Temperature",
+          "text": "The highest and lowest temperatures that were recorded on the calendar day."
+        },
+        {
+          "heading": "Rainfall",
+          "text": "The total rainfall that fell during the calendar day."
+        },
+        {
+          "heading": "",
+          "text": "Observations recorded at Christchurch Airport (AWS-93781)"
+        }
+      ],
+      "totals": {
+        "maxTemp": "highest 29.4\u00b0C",
+        "minTemp": "lowest 3.2\u00b0C",
+        "peakWindGust": "maximum 76km/h",
+        "rainfall": "total 62.6mm"
+      }
+    },
+    "historical_data": {
+      "data": [
+        {
+          "current": {
+            "maxTemp": "31.9",
+            "minTemp": "3.7",
+            "rainFall": "3.2"
+          },
+          "header": "Jan",
+          "historical": {
+            "maxTemp": "31.0",
+            "minTemp": "5.0",
+            "rainFall": "39.4"
+          },
+          "last": {
+            "maxTemp": "33.0",
+            "minTemp": "7.3",
+            "rainFall": "31.0"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "35.6",
+            "minTemp": "2.6",
+            "rainFall": "23.0"
+          },
+          "header": "Feb",
+          "historical": {
+            "maxTemp": "31.4",
+            "minTemp": "4.6",
+            "rainFall": "44.1"
+          },
+          "last": {
+            "maxTemp": "32.9",
+            "minTemp": "3.3",
+            "rainFall": "19.0"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "30.8",
+            "minTemp": "-1.3",
+            "rainFall": "58.4"
+          },
+          "header": "Mar",
+          "historical": {
+            "maxTemp": "28.7",
+            "minTemp": "2.3",
+            "rainFall": "35.5"
+          },
+          "last": {
+            "maxTemp": "30.4",
+            "minTemp": "2.8",
+            "rainFall": "24.0"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "25.2",
+            "minTemp": "-1.1",
+            "rainFall": "13.4"
+          },
+          "header": "Apr",
+          "historical": {
+            "maxTemp": "25.4",
+            "minTemp": "-0.1",
+            "rainFall": "47.3"
+          },
+          "last": {
+            "maxTemp": "27.6",
+            "minTemp": "0.4",
+            "rainFall": "62.8"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "24.4",
+            "minTemp": "-2.6",
+            "rainFall": "31.8"
+          },
+          "header": "May",
+          "historical": {
+            "maxTemp": "22.1",
+            "minTemp": "-1.9",
+            "rainFall": "51.9"
+          },
+          "last": {
+            "maxTemp": "21.2",
+            "minTemp": "-2.1",
+            "rainFall": "33.0"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "21.5",
+            "minTemp": "-5.3",
+            "rainFall": "101.6"
+          },
+          "header": "Jun",
+          "historical": {
+            "maxTemp": "20.3",
+            "minTemp": "-4.7",
+            "rainFall": "48.9"
+          },
+          "last": {
+            "maxTemp": "17.6",
+            "minTemp": "-5.0",
+            "rainFall": "82.4"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "17.4",
+            "minTemp": "-4.3",
+            "rainFall": "70.6"
+          },
+          "header": "Jul",
+          "historical": {
+            "maxTemp": "18.2",
+            "minTemp": "-4.9",
+            "rainFall": "59.5"
+          },
+          "last": {
+            "maxTemp": "20.2",
+            "minTemp": "-4.2",
+            "rainFall": "82.0"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "22.2",
+            "minTemp": "-4.9",
+            "rainFall": "11.4"
+          },
+          "header": "Aug",
+          "historical": {
+            "maxTemp": "19.7",
+            "minTemp": "-3.7",
+            "rainFall": "59.7"
+          },
+          "last": {
+            "maxTemp": "18.3",
+            "minTemp": "-4.4",
+            "rainFall": "44.2"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "24.8",
+            "minTemp": "-4.8",
+            "rainFall": "40.4"
+          },
+          "header": "Sep",
+          "historical": {
+            "maxTemp": "22.3",
+            "minTemp": "-2.3",
+            "rainFall": "40.5"
+          },
+          "last": {
+            "maxTemp": "23.5",
+            "minTemp": "-4.2",
+            "rainFall": "54.0"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "29.1",
+            "minTemp": "0.3",
+            "rainFall": "29.2"
+          },
+          "header": "Oct",
+          "historical": {
+            "maxTemp": "25.0",
+            "minTemp": "-0.7",
+            "rainFall": "53.6"
+          },
+          "last": {
+            "maxTemp": "22.6",
+            "minTemp": "-3.0",
+            "rainFall": "62.0"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "28.3",
+            "minTemp": "2.6",
+            "rainFall": "71.8"
+          },
+          "header": "Nov",
+          "historical": {
+            "maxTemp": "27.2",
+            "minTemp": "0.1",
+            "rainFall": "42.8"
+          },
+          "last": {
+            "maxTemp": "31.4",
+            "minTemp": "0.8",
+            "rainFall": "45.6"
+          }
+        },
+        {
+          "current": {
+            "maxTemp": "31.5",
+            "minTemp": "3.2",
+            "rainFall": "62.2"
+          },
+          "header": "Dec",
+          "historical": {
+            "maxTemp": "29.8",
+            "minTemp": "3.7",
+            "rainFall": "46.8"
+          },
+          "last": {
+            "maxTemp": "27.4",
+            "minTemp": "4.4",
+            "rainFall": "34.8"
+          }
+        }
+      ],
+      "label": "Historical Data",
+      "legend": {
+        "current": "Jan 2020 - Dec 2020",
+        "historical": "Historical average",
+        "past": "Jan 2019 - Dec 2019"
+      },
+      "notes": [
+        {
+          "text": "The shade of the bar indicates the year or historical average."
+        },
+        {
+          "heading": "Temperature",
+          "text": "The historical data is the extreme maximum air temperature for the month averaged over a historical period (e.g. 10 years) and the extreme minimum air temperature for the month averaged over a historical period. The data for the previous two years is the highest maximum and lowest minimum recorded for the month."
+        },
+        {
+          "heading": "Rainfall",
+          "text": "The total rainfall that fell during the month"
+        },
+        {
+          "heading": "",
+          "text": "Observations recorded at Christchurch Airport (AWS-93781)"
+        }
+      ],
+      "totals": {}
+    }
+  }
+][
+[
+[
+{"Date": "24 Dec", "Min_Temp": "13.0", "Max_Temp": "18.8", "Rainfall": "8.2", "Wind_Direction": "S", "Wind_Speed": "S"}
+][
+[
+{"Date": "24 Jan", "Min_Temp": "6.1", "Max_Temp": "26.9", "Rainfall": "0.0", "Wind_Direction": "W", "Wind_Speed": "W"}
+]

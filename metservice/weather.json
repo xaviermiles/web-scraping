@@ -1,0 +1,1802 @@
+[
+  {
+    "_usage": "This data is restricted and may only be used with explicit permission from MetService NZ. Contact dataenquiries@metservice.com",
+    "advertising": {
+      "bannerConfig": {
+        "adUnitPath": "/9734223/BigBanner_NewSite",
+        "fuseTag": "21816210109",
+        "targeting": [],
+        "unit": "bigBanner"
+      },
+      "interstitial": {
+        "adUnitPath": "/9734223/NewSite_Interstitial_V2",
+        "fuseTag": "21833606848",
+        "targeting": [],
+        "unit": "interstitial"
+      },
+      "leftSkin": {
+        "adUnitPath": "/9734223/LeftSkin_NewSite_V2",
+        "fuseTag": "21827479023",
+        "targeting": [],
+        "unit": "leftSkin"
+      },
+      "mapTakeover": {
+        "adUnitPath": "/9734223/HPBackground_NewSite_V2",
+        "fuseTag": "21825811305",
+        "targeting": [],
+        "unit": "mapTakeover"
+      },
+      "rightSkin": {
+        "adUnitPath": "/9734223/RightSkin_NewSite_V2",
+        "fuseTag": "21827479038",
+        "targeting": [],
+        "unit": "rightSkin"
+      },
+      "targeting": [
+        {
+          "key": "type",
+          "value": "urban"
+        },
+        {
+          "key": "towns-scn",
+          "value": "towns-past-weather"
+        },
+        {
+          "key": "towns-loc",
+          "value": "towns-past-weather-christchurch"
+        },
+        {
+          "key": "page",
+          "value": "towns-past-weather"
+        },
+        {
+          "key": "site",
+          "value": "production"
+        }
+      ]
+    },
+    "isSkiSeason": "false",
+    "layout": {
+      "last": {
+        "modules": []
+      },
+      "name": "five-up/1",
+      "navigation": {
+        "links": [
+          {
+            "label": "Next 48 Hours",
+            "url": "/towns-cities/locations/christchurch"
+          },
+          {
+            "label": "7 Days",
+            "url": "/towns-cities/locations/christchurch/7-days"
+          },
+          {
+            "label": "Extended",
+            "url": "/towns-cities/locations/christchurch/extended"
+          },
+          {
+            "label": "Water Activities",
+            "url": "/towns-cities/locations/christchurch/water-activities"
+          },
+          {
+            "label": "Nearby Forecasts",
+            "url": "/towns-cities/locations/christchurch/nearby-forecasts"
+          },
+          {
+            "label": "Past Weather",
+            "url": "/towns-cities/locations/christchurch/past-weather"
+          }
+        ]
+      },
+      "primary": {
+        "slots": {
+          "first": {
+            "modules": []
+          },
+          "left-major": {
+            "modules": []
+          },
+          "left-minor": {
+            "modules": []
+          },
+          "main": {
+            "modules": [
+              {
+                "label": "Past Weather for Christchurch Airport as Christchurch Central has no past weather data",
+                "location": "Christchurch Central",
+                "name": "past-weather",
+                "tabs": [
+                  {
+                    "data": [
+                      {
+                        "current": {
+                          "maxTemp": "11.3",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "15"
+                          }
+                        },
+                        "header": "1am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "10.2",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "11"
+                          }
+                        },
+                        "header": "2am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "9.6",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "11"
+                          }
+                        },
+                        "header": "3am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "9.3",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "13"
+                          }
+                        },
+                        "header": "4am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "7.5",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "11"
+                          }
+                        },
+                        "header": "5am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "6.6",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "NW",
+                            "gustSpeed": "7"
+                          }
+                        },
+                        "header": "6am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "7.3",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "7"
+                          }
+                        },
+                        "header": "7am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "10.2",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "11"
+                          }
+                        },
+                        "header": "8am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "14.6",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "19"
+                          }
+                        },
+                        "header": "9am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "17.1",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "NE",
+                            "gustSpeed": "15"
+                          }
+                        },
+                        "header": "10am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "20.4",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "19"
+                          }
+                        },
+                        "header": "11am"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "21.9",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "22"
+                          }
+                        },
+                        "header": "Noon"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "23.3",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "NE",
+                            "gustSpeed": "28"
+                          }
+                        },
+                        "header": "1pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "24.4",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "26"
+                          }
+                        },
+                        "header": "2pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "22.9",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "31"
+                          }
+                        },
+                        "header": "3pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "23.0",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "30"
+                          }
+                        },
+                        "header": "4pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "24.7",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "24"
+                          }
+                        },
+                        "header": "5pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "26.0",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "24"
+                          }
+                        },
+                        "header": "6pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "26.2",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "37"
+                          }
+                        },
+                        "header": "7pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "23.3",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "41"
+                          }
+                        },
+                        "header": "8pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "21.3",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "39"
+                          }
+                        },
+                        "header": "9pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "20.1",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "39"
+                          }
+                        },
+                        "header": "10pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "18.4",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "35"
+                          }
+                        },
+                        "header": "11pm"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "14.4",
+                          "rainFall": 0.0,
+                          "wind": {
+                            "direction": "SW",
+                            "gustSpeed": "30"
+                          }
+                        },
+                        "header": "Midnight"
+                      }
+                    ],
+                    "label": "Yesterday",
+                    "notes": [
+                      {
+                        "heading": "Peak wind gust",
+                        "text": "The direction and speed of the highest gust that was recorded in the hour ended at the time shown."
+                      },
+                      {
+                        "heading": "Temperature",
+                        "text": "The temperature recorded at the time shown."
+                      },
+                      {
+                        "heading": "Rainfall",
+                        "text": "The total rainfall that fell in the hour ended at the time shown."
+                      },
+                      {
+                        "heading": "",
+                        "text": "Observations recorded at Christchurch Airport (AWS-93781)"
+                      }
+                    ],
+                    "totals": {
+                      "maxTemp": "highest 26.2\u00b0C",
+                      "minTemp": "",
+                      "peakWindGust": "maximum 41km/h",
+                      "rainfall": "total 0.0mm"
+                    }
+                  },
+                  {
+                    "data": [
+                      {
+                        "current": {
+                          "maxTemp": "18.8",
+                          "minTemp": "13.0",
+                          "rainFall": "8.2",
+                          "wind": {
+                            "direction": "S",
+                            "gustSpeed": "39"
+                          }
+                        },
+                        "header": "24 Dec"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "16.8",
+                          "minTemp": "10.3",
+                          "rainFall": "7.4",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "39"
+                          }
+                        },
+                        "header": "25 Dec"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "15.5",
+                          "minTemp": "8.6",
+                          "rainFall": "5.2",
+                          "wind": {
+                            "direction": "S",
+                            "gustSpeed": "44"
+                          }
+                        },
+                        "header": "26 Dec"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "15.0",
+                          "minTemp": "6.5",
+                          "rainFall": "15.4",
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "44"
+                          }
+                        },
+                        "header": "27 Dec"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "17.6",
+                          "minTemp": "4.2",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "NE",
+                            "gustSpeed": "30"
+                          }
+                        },
+                        "header": "28 Dec"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "18.4",
+                          "minTemp": "3.2",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "43"
+                          }
+                        },
+                        "header": "29 Dec"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "18.7",
+                          "minTemp": "12.2",
+                          "rainFall": "0.2",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "39"
+                          }
+                        },
+                        "header": "30 Dec"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "19.5",
+                          "minTemp": "13.2",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "NE",
+                            "gustSpeed": "48"
+                          }
+                        },
+                        "header": "31 Dec"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "20.9",
+                          "minTemp": "13.1",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "37"
+                          }
+                        },
+                        "header": "01 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "17.7",
+                          "minTemp": "15.0",
+                          "rainFall": "3.0",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "30"
+                          }
+                        },
+                        "header": "02 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "23.5",
+                          "minTemp": "13.8",
+                          "rainFall": "1.0",
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "37"
+                          }
+                        },
+                        "header": "03 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "22.7",
+                          "minTemp": "9.0",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "NE",
+                            "gustSpeed": "44"
+                          }
+                        },
+                        "header": "04 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "19.3",
+                          "minTemp": "14.6",
+                          "rainFall": "0.4",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "37"
+                          }
+                        },
+                        "header": "05 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "20.3",
+                          "minTemp": "13.8",
+                          "rainFall": "0.2",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "37"
+                          }
+                        },
+                        "header": "06 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "29.4",
+                          "minTemp": "15.4",
+                          "rainFall": "2.6",
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "43"
+                          }
+                        },
+                        "header": "07 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "17.2",
+                          "minTemp": "11.3",
+                          "rainFall": "2.8",
+                          "wind": {
+                            "direction": "SW",
+                            "gustSpeed": "44"
+                          }
+                        },
+                        "header": "08 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "20.3",
+                          "minTemp": "11.3",
+                          "rainFall": "0.2",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "39"
+                          }
+                        },
+                        "header": "09 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "20.2",
+                          "minTemp": "12.7",
+                          "rainFall": "1.4",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "39"
+                          }
+                        },
+                        "header": "10 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "17.7",
+                          "minTemp": "12.2",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "S",
+                            "gustSpeed": "44"
+                          }
+                        },
+                        "header": "11 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "21.3",
+                          "minTemp": "13.5",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "NE",
+                            "gustSpeed": "50"
+                          }
+                        },
+                        "header": "12 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "25.1",
+                          "minTemp": "16.1",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "30"
+                          }
+                        },
+                        "header": "13 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "25.3",
+                          "minTemp": "14.9",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "S",
+                            "gustSpeed": "35"
+                          }
+                        },
+                        "header": "14 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "22.4",
+                          "minTemp": "15.5",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "44"
+                          }
+                        },
+                        "header": "15 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "21.9",
+                          "minTemp": "16.5",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "E",
+                            "gustSpeed": "57"
+                          }
+                        },
+                        "header": "16 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "26.7",
+                          "minTemp": "14.0",
+                          "rainFall": "7.8",
+                          "wind": {
+                            "direction": "N",
+                            "gustSpeed": "63"
+                          }
+                        },
+                        "header": "17 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "23.8",
+                          "minTemp": "11.2",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "NW",
+                            "gustSpeed": "65"
+                          }
+                        },
+                        "header": "18 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "27.8",
+                          "minTemp": "9.5",
+                          "rainFall": "0.2",
+                          "wind": {
+                            "direction": "NW",
+                            "gustSpeed": "76"
+                          }
+                        },
+                        "header": "19 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "20.3",
+                          "minTemp": "8.8",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "NW",
+                            "gustSpeed": "61"
+                          }
+                        },
+                        "header": "20 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "18.1",
+                          "minTemp": "11.5",
+                          "rainFall": "6.4",
+                          "wind": {
+                            "direction": "SW",
+                            "gustSpeed": "46"
+                          }
+                        },
+                        "header": "21 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "20.4",
+                          "minTemp": "6.9",
+                          "rainFall": "0.2",
+                          "wind": {
+                            "direction": "NE",
+                            "gustSpeed": "44"
+                          }
+                        },
+                        "header": "22 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "27.8",
+                          "minTemp": "10.5",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "NW",
+                            "gustSpeed": "65"
+                          }
+                        },
+                        "header": "23 Jan"
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "26.9",
+                          "minTemp": "6.1",
+                          "rainFall": "0.0",
+                          "wind": {
+                            "direction": "W",
+                            "gustSpeed": "41"
+                          }
+                        },
+                        "header": "24 Jan"
+                      }
+                    ],
+                    "label": "Last 30 Days",
+                    "legend": {
+                      "current": "Last 30 Days"
+                    },
+                    "notes": [
+                      {
+                        "heading": "Peak wind gust",
+                        "text": "The direction and speed of the highest gust that was recorded on the calendar day."
+                      },
+                      {
+                        "heading": "Temperature",
+                        "text": "The highest and lowest temperatures that were recorded on the calendar day."
+                      },
+                      {
+                        "heading": "Rainfall",
+                        "text": "The total rainfall that fell during the calendar day."
+                      },
+                      {
+                        "heading": "",
+                        "text": "Observations recorded at Christchurch Airport (AWS-93781)"
+                      }
+                    ],
+                    "totals": {
+                      "maxTemp": "highest 29.4\u00b0C",
+                      "minTemp": "lowest 3.2\u00b0C",
+                      "peakWindGust": "maximum 76km/h",
+                      "rainfall": "total 62.6mm"
+                    }
+                  },
+                  {
+                    "data": [
+                      {
+                        "current": {
+                          "maxTemp": "31.9",
+                          "minTemp": "3.7",
+                          "rainFall": "3.2"
+                        },
+                        "header": "Jan",
+                        "historical": {
+                          "maxTemp": "31.0",
+                          "minTemp": "5.0",
+                          "rainFall": "39.4"
+                        },
+                        "last": {
+                          "maxTemp": "33.0",
+                          "minTemp": "7.3",
+                          "rainFall": "31.0"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "35.6",
+                          "minTemp": "2.6",
+                          "rainFall": "23.0"
+                        },
+                        "header": "Feb",
+                        "historical": {
+                          "maxTemp": "31.4",
+                          "minTemp": "4.6",
+                          "rainFall": "44.1"
+                        },
+                        "last": {
+                          "maxTemp": "32.9",
+                          "minTemp": "3.3",
+                          "rainFall": "19.0"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "30.8",
+                          "minTemp": "-1.3",
+                          "rainFall": "58.4"
+                        },
+                        "header": "Mar",
+                        "historical": {
+                          "maxTemp": "28.7",
+                          "minTemp": "2.3",
+                          "rainFall": "35.5"
+                        },
+                        "last": {
+                          "maxTemp": "30.4",
+                          "minTemp": "2.8",
+                          "rainFall": "24.0"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "25.2",
+                          "minTemp": "-1.1",
+                          "rainFall": "13.4"
+                        },
+                        "header": "Apr",
+                        "historical": {
+                          "maxTemp": "25.4",
+                          "minTemp": "-0.1",
+                          "rainFall": "47.3"
+                        },
+                        "last": {
+                          "maxTemp": "27.6",
+                          "minTemp": "0.4",
+                          "rainFall": "62.8"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "24.4",
+                          "minTemp": "-2.6",
+                          "rainFall": "31.8"
+                        },
+                        "header": "May",
+                        "historical": {
+                          "maxTemp": "22.1",
+                          "minTemp": "-1.9",
+                          "rainFall": "51.9"
+                        },
+                        "last": {
+                          "maxTemp": "21.2",
+                          "minTemp": "-2.1",
+                          "rainFall": "33.0"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "21.5",
+                          "minTemp": "-5.3",
+                          "rainFall": "101.6"
+                        },
+                        "header": "Jun",
+                        "historical": {
+                          "maxTemp": "20.3",
+                          "minTemp": "-4.7",
+                          "rainFall": "48.9"
+                        },
+                        "last": {
+                          "maxTemp": "17.6",
+                          "minTemp": "-5.0",
+                          "rainFall": "82.4"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "17.4",
+                          "minTemp": "-4.3",
+                          "rainFall": "70.6"
+                        },
+                        "header": "Jul",
+                        "historical": {
+                          "maxTemp": "18.2",
+                          "minTemp": "-4.9",
+                          "rainFall": "59.5"
+                        },
+                        "last": {
+                          "maxTemp": "20.2",
+                          "minTemp": "-4.2",
+                          "rainFall": "82.0"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "22.2",
+                          "minTemp": "-4.9",
+                          "rainFall": "11.4"
+                        },
+                        "header": "Aug",
+                        "historical": {
+                          "maxTemp": "19.7",
+                          "minTemp": "-3.7",
+                          "rainFall": "59.7"
+                        },
+                        "last": {
+                          "maxTemp": "18.3",
+                          "minTemp": "-4.4",
+                          "rainFall": "44.2"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "24.8",
+                          "minTemp": "-4.8",
+                          "rainFall": "40.4"
+                        },
+                        "header": "Sep",
+                        "historical": {
+                          "maxTemp": "22.3",
+                          "minTemp": "-2.3",
+                          "rainFall": "40.5"
+                        },
+                        "last": {
+                          "maxTemp": "23.5",
+                          "minTemp": "-4.2",
+                          "rainFall": "54.0"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "29.1",
+                          "minTemp": "0.3",
+                          "rainFall": "29.2"
+                        },
+                        "header": "Oct",
+                        "historical": {
+                          "maxTemp": "25.0",
+                          "minTemp": "-0.7",
+                          "rainFall": "53.6"
+                        },
+                        "last": {
+                          "maxTemp": "22.6",
+                          "minTemp": "-3.0",
+                          "rainFall": "62.0"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "28.3",
+                          "minTemp": "2.6",
+                          "rainFall": "71.8"
+                        },
+                        "header": "Nov",
+                        "historical": {
+                          "maxTemp": "27.2",
+                          "minTemp": "0.1",
+                          "rainFall": "42.8"
+                        },
+                        "last": {
+                          "maxTemp": "31.4",
+                          "minTemp": "0.8",
+                          "rainFall": "45.6"
+                        }
+                      },
+                      {
+                        "current": {
+                          "maxTemp": "31.5",
+                          "minTemp": "3.2",
+                          "rainFall": "62.2"
+                        },
+                        "header": "Dec",
+                        "historical": {
+                          "maxTemp": "29.8",
+                          "minTemp": "3.7",
+                          "rainFall": "46.8"
+                        },
+                        "last": {
+                          "maxTemp": "27.4",
+                          "minTemp": "4.4",
+                          "rainFall": "34.8"
+                        }
+                      }
+                    ],
+                    "label": "Historical Data",
+                    "legend": {
+                      "current": "Jan 2020 - Dec 2020",
+                      "historical": "Historical average",
+                      "past": "Jan 2019 - Dec 2019"
+                    },
+                    "notes": [
+                      {
+                        "text": "The shade of the bar indicates the year or historical average."
+                      },
+                      {
+                        "heading": "Temperature",
+                        "text": "The historical data is the extreme maximum air temperature for the month averaged over a historical period (e.g. 10 years) and the extreme minimum air temperature for the month averaged over a historical period. The data for the previous two years is the highest maximum and lowest minimum recorded for the month."
+                      },
+                      {
+                        "heading": "Rainfall",
+                        "text": "The total rainfall that fell during the month"
+                      },
+                      {
+                        "heading": "",
+                        "text": "Observations recorded at Christchurch Airport (AWS-93781)"
+                      }
+                    ],
+                    "totals": {}
+                  }
+                ],
+                "type": "module"
+              }
+            ]
+          },
+          "right": {
+            "modules": [
+              {
+                "adUnitPath": "/9734223/SideBanner_NewSite_V2",
+                "fuseTag": "21816204874",
+                "layout": {
+                  "hideWhen": "2-column"
+                },
+                "name": "advert/1",
+                "targeting": [],
+                "type": "module",
+                "unit": "sideBanner1"
+              }
+            ]
+          }
+        }
+      },
+      "search": [
+        {
+          "items": [
+            {
+              "children": [
+                {
+                  "label": "Dargaville",
+                  "url": "/towns-cities/locations/dargaville"
+                },
+                {
+                  "label": "Kaikohe",
+                  "url": "/rural/regions/northland/locations/kaikohe"
+                },
+                {
+                  "label": "Kaitaia",
+                  "url": "/towns-cities/locations/kaitaia"
+                },
+                {
+                  "label": "Kaitaia Airport",
+                  "url": "/towns-cities/locations/kaitaia-airport"
+                },
+                {
+                  "label": "Kerikeri",
+                  "url": "/towns-cities/locations/kerikeri"
+                },
+                {
+                  "label": "Paihia",
+                  "url": "/towns-cities/locations/paihia"
+                },
+                {
+                  "label": "Whang\u0101rei",
+                  "url": "/towns-cities/locations/whangarei"
+                }
+              ],
+              "heading": {
+                "label": "Northland"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Auckland Central",
+                  "url": "/towns-cities/locations/auckland"
+                },
+                {
+                  "label": "Hunua",
+                  "url": "/towns-cities/regions/auckland/locations/hunua"
+                },
+                {
+                  "label": "Kumeu",
+                  "url": "/rural/regions/auckland/locations/kumeu"
+                },
+                {
+                  "label": "Manukau",
+                  "url": "/towns-cities/regions/auckland/locations/manukau"
+                },
+                {
+                  "label": "North Shore",
+                  "url": "/towns-cities/regions/auckland/locations/north-shore"
+                },
+                {
+                  "label": "Pukekohe",
+                  "url": "/rural/regions/auckland/locations/pukekohe"
+                },
+                {
+                  "label": "Waiheke Island",
+                  "url": "/towns-cities/locations/waiheke-island"
+                },
+                {
+                  "label": "Waitakere",
+                  "url": "/towns-cities/regions/auckland/locations/waitakere"
+                },
+                {
+                  "label": "Warkworth",
+                  "url": "/rural/regions/auckland/locations/warkworth"
+                }
+              ],
+              "heading": {
+                "label": "Auckland"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Hamilton",
+                  "url": "/towns-cities/locations/hamilton"
+                },
+                {
+                  "label": "Matamata",
+                  "url": "/rural/regions/waikato/locations/matamata"
+                },
+                {
+                  "label": "Paeroa",
+                  "url": "/rural/regions/waikato/locations/paeroa"
+                },
+                {
+                  "label": "Te Awamutu",
+                  "url": "/rural/regions/waikato/locations/te-awamutu"
+                },
+                {
+                  "label": "Tokoroa",
+                  "url": "/towns-cities/locations/tokoroa"
+                }
+              ],
+              "heading": {
+                "label": "Waikato"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Te Kuiti",
+                  "url": "/towns-cities/locations/te-kuiti"
+                }
+              ],
+              "heading": {
+                "label": "Waitomo"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Thames",
+                  "url": "/towns-cities/locations/thames"
+                },
+                {
+                  "label": "Whitianga",
+                  "url": "/towns-cities/locations/whitianga"
+                }
+              ],
+              "heading": {
+                "label": "Coromandel"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Rotorua",
+                  "url": "/towns-cities/locations/rotorua"
+                }
+              ],
+              "heading": {
+                "label": "Rotorua"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Tauranga",
+                  "url": "/towns-cities/locations/tauranga"
+                },
+                {
+                  "label": "Te Puke",
+                  "url": "/rural/regions/bay-of-plenty/locations/te-puke"
+                },
+                {
+                  "label": "Whakat\u0101ne",
+                  "url": "/towns-cities/locations/whakatane"
+                }
+              ],
+              "heading": {
+                "label": "Bay of Plenty"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Taup\u014d",
+                  "url": "/towns-cities/locations/taupo"
+                },
+                {
+                  "label": "Taup\u014d Airport",
+                  "url": "/towns-cities/locations/taupo-airport"
+                }
+              ],
+              "heading": {
+                "label": "Taup\u014d"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Gisborne",
+                  "url": "/towns-cities/locations/gisborne"
+                },
+                {
+                  "label": "Ruatoria",
+                  "url": "/rural/regions/gisborne/locations/ruatoria"
+                }
+              ],
+              "heading": {
+                "label": "Gisborne"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Eastern Rangitaiki",
+                  "url": "/rural/regions/hawkes-bay/locations/eastern-rangitaiki"
+                },
+                {
+                  "label": "Hastings",
+                  "url": "/towns-cities/locations/hastings"
+                },
+                {
+                  "label": "Mahia",
+                  "url": "/rural/regions/hawkes-bay/locations/mahia"
+                },
+                {
+                  "label": "Napier",
+                  "url": "/towns-cities/locations/napier"
+                },
+                {
+                  "label": "Napier Airport",
+                  "url": "/towns-cities/locations/napier-airport"
+                },
+                {
+                  "label": "Waipukurau",
+                  "url": "/rural/regions/hawkes-bay/locations/waipukurau"
+                },
+                {
+                  "label": "Wairoa",
+                  "url": "/rural/regions/hawkes-bay/locations/wairoa"
+                }
+              ],
+              "heading": {
+                "label": "Hawke's Bay"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "H\u0101wera",
+                  "url": "/rural/regions/taranaki/locations/hawera"
+                },
+                {
+                  "label": "New Plymouth",
+                  "url": "/towns-cities/locations/new-plymouth"
+                },
+                {
+                  "label": "New Plymouth Airport",
+                  "url": "/towns-cities/locations/new-plymouth-airport"
+                }
+              ],
+              "heading": {
+                "label": "Taranaki"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Taumarunui",
+                  "url": "/towns-cities/locations/taumarunui"
+                }
+              ],
+              "heading": {
+                "label": "Taumarunui"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Waiouru",
+                  "url": "/rural/regions/taihape/locations/waiouru"
+                }
+              ],
+              "heading": {
+                "label": "Taihape"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Whanganui",
+                  "url": "/towns-cities/locations/wanganui"
+                },
+                {
+                  "label": "Whanganui Airport",
+                  "url": "/towns-cities/locations/wanganui-airport"
+                }
+              ],
+              "heading": {
+                "label": "Whanganui"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Ohakea",
+                  "url": "/rural/regions/manawatu/locations/ohakea"
+                },
+                {
+                  "label": "Palmerston North",
+                  "url": "/towns-cities/locations/palmerston-north"
+                },
+                {
+                  "label": "Palmerston North Airport",
+                  "url": "/towns-cities/locations/palmerston-north-airport"
+                }
+              ],
+              "heading": {
+                "label": "Manawatu"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Castlepoint",
+                  "url": "/rural/regions/wairarapa/locations/castlepoint"
+                },
+                {
+                  "label": "Dannevirke",
+                  "url": "/towns-cities/locations/dannevirke"
+                },
+                {
+                  "label": "Martinborough",
+                  "url": "/rural/regions/wairarapa/locations/martinborough"
+                },
+                {
+                  "label": "Masterton",
+                  "url": "/towns-cities/locations/masterton"
+                }
+              ],
+              "heading": {
+                "label": "Wairarapa"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Levin",
+                  "url": "/towns-cities/locations/levin"
+                },
+                {
+                  "label": "Paraparaumu",
+                  "url": "/towns-cities/locations/paraparaumu"
+                },
+                {
+                  "label": "Te Horo",
+                  "url": "/rural/regions/kapiti-horowhenua/locations/te-horo"
+                },
+                {
+                  "label": "Waikanae",
+                  "url": "/towns-cities/locations/waikanae"
+                },
+                {
+                  "label": "\u014ctaki",
+                  "url": "/rural/regions/kapiti-horowhenua/locations/otaki"
+                }
+              ],
+              "heading": {
+                "label": "Kapiti-Horowhenua"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Judgeford",
+                  "url": "/rural/regions/wellington/locations/judgeford"
+                },
+                {
+                  "label": "Lower Hutt",
+                  "url": "/towns-cities/regions/wellington/locations/lower-hutt"
+                },
+                {
+                  "label": "Lyall Bay",
+                  "url": "/towns-cities/regions/wellington/locations/lyall-bay"
+                },
+                {
+                  "label": "Ohariu Valley",
+                  "url": "/rural/regions/wellington/locations/ohariu-valley"
+                },
+                {
+                  "label": "Porirua",
+                  "url": "/towns-cities/regions/wellington/locations/porirua"
+                },
+                {
+                  "label": "Upper Hutt",
+                  "url": "/towns-cities/regions/wellington/locations/upper-hutt"
+                },
+                {
+                  "label": "Wainuiomata",
+                  "url": "/towns-cities/regions/wellington/locations/wainuiomata"
+                },
+                {
+                  "label": "Wellington Central",
+                  "url": "/towns-cities/locations/wellington"
+                }
+              ],
+              "heading": {
+                "label": "Wellington"
+              }
+            }
+          ],
+          "title": "North Island"
+        },
+        {
+          "items": [
+            {
+              "children": [
+                {
+                  "label": "Blenheim",
+                  "url": "/towns-cities/locations/blenheim"
+                },
+                {
+                  "label": "Kaik\u014dura",
+                  "url": "/towns-cities/locations/kaikoura"
+                },
+                {
+                  "label": "Kaik\u014dura Airport",
+                  "url": "/towns-cities/locations/kaikoura-airport"
+                },
+                {
+                  "label": "Picton",
+                  "url": "/rural/regions/marlborough/locations/picton"
+                }
+              ],
+              "heading": {
+                "label": "Marlborough"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Motueka",
+                  "url": "/towns-cities/locations/motueka"
+                },
+                {
+                  "label": "Nelson",
+                  "url": "/towns-cities/locations/nelson"
+                },
+                {
+                  "label": "Takaka",
+                  "url": "/rural/regions/nelson/locations/takaka"
+                }
+              ],
+              "heading": {
+                "label": "Nelson"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Reefton",
+                  "url": "/towns-cities/locations/reefton"
+                },
+                {
+                  "label": "Westport",
+                  "url": "/towns-cities/locations/westport"
+                }
+              ],
+              "heading": {
+                "label": "Buller"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Franz Josef",
+                  "url": "/rural/regions/westland/locations/franz-josef"
+                },
+                {
+                  "label": "Greymouth",
+                  "url": "/towns-cities/locations/greymouth"
+                },
+                {
+                  "label": "Haast",
+                  "url": "/rural/regions/westland/locations/haast"
+                },
+                {
+                  "label": "Hokitika",
+                  "url": "/towns-cities/locations/hokitika"
+                }
+              ],
+              "heading": {
+                "label": "Westland"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Ashburton",
+                  "url": "/towns-cities/locations/ashburton"
+                },
+                {
+                  "label": "Darfield",
+                  "url": "/rural/regions/canterbury-plains/locations/darfield"
+                },
+                {
+                  "label": "Methven",
+                  "url": "/rural/regions/canterbury-plains/locations/methven"
+                },
+                {
+                  "label": "Rakaia",
+                  "url": "/rural/regions/canterbury-plains/locations/rakaia"
+                },
+                {
+                  "label": "Timaru",
+                  "url": "/towns-cities/locations/timaru"
+                },
+                {
+                  "label": "Waipara",
+                  "url": "/rural/regions/canterbury-plains/locations/waipara"
+                }
+              ],
+              "heading": {
+                "label": "Canterbury Plains"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Culverden",
+                  "url": "/rural/regions/canterbury-high-country/locations/culverden"
+                },
+                {
+                  "label": "Mount Cook",
+                  "url": "/towns-cities/locations/mount-cook"
+                },
+                {
+                  "label": "Omarama",
+                  "url": "/rural/regions/canterbury-high-country/locations/omarama"
+                },
+                {
+                  "label": "Twizel",
+                  "url": "/rural/regions/canterbury-high-country/locations/twizel"
+                }
+              ],
+              "heading": {
+                "label": "Canterbury High Country"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Banks Peninsula",
+                  "url": "/towns-cities/regions/christchurch/locations/banks-peninsula"
+                },
+                {
+                  "label": "Christchurch Central",
+                  "url": "/towns-cities/locations/christchurch"
+                },
+                {
+                  "label": "Eastern Suburbs",
+                  "url": "/towns-cities/regions/christchurch/locations/eastern-suburbs"
+                },
+                {
+                  "label": "Hilltop",
+                  "url": "/rural/regions/christchurch/locations/hill-top"
+                },
+                {
+                  "label": "Lincoln",
+                  "url": "/rural/regions/christchurch/locations/lincoln"
+                },
+                {
+                  "label": "Marshland",
+                  "url": "/rural/regions/christchurch/locations/marshlands"
+                },
+                {
+                  "label": "Port Hills",
+                  "url": "/towns-cities/regions/christchurch/locations/port-hills"
+                }
+              ],
+              "heading": {
+                "label": "Christchurch"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Oamaru",
+                  "url": "/towns-cities/locations/oamaru"
+                },
+                {
+                  "label": "Oamaru Airport",
+                  "url": "/towns-cities/locations/oamaru-airport"
+                }
+              ],
+              "heading": {
+                "label": "North Otago"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Alexandra",
+                  "url": "/towns-cities/locations/alexandra"
+                }
+              ],
+              "heading": {
+                "label": "Central Otago"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Dunedin",
+                  "url": "/towns-cities/locations/dunedin"
+                },
+                {
+                  "label": "Middlemarch",
+                  "url": "/rural/regions/dunedin/locations/middlemarch"
+                },
+                {
+                  "label": "Mosgiel",
+                  "url": "/towns-cities/locations/mosgiel"
+                },
+                {
+                  "label": "Waitati",
+                  "url": "/rural/regions/dunedin/locations/waitati"
+                }
+              ],
+              "heading": {
+                "label": "Dunedin"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Nugget Point",
+                  "url": "/rural/regions/clutha/locations/nugget-point"
+                }
+              ],
+              "heading": {
+                "label": "Clutha"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Queenstown",
+                  "url": "/towns-cities/locations/queenstown"
+                },
+                {
+                  "label": "Wanaka",
+                  "url": "/towns-cities/locations/wanaka"
+                }
+              ],
+              "heading": {
+                "label": "Southern Lakes"
+              }
+            },
+            {
+              "children": [
+                {
+                  "label": "Gore",
+                  "url": "/towns-cities/locations/gore"
+                },
+                {
+                  "label": "Invercargill",
+                  "url": "/towns-cities/locations/invercargill"
+                },
+                {
+                  "label": "Lumsden",
+                  "url": "/rural/regions/southland/locations/lumsden"
+                },
+                {
+                  "label": "Milford Sound",
+                  "url": "/towns-cities/locations/milford-sound"
+                },
+                {
+                  "label": "Stewart Island",
+                  "url": "/rural/regions/southland/locations/stewart-island"
+                },
+                {
+                  "label": "Te Anau",
+                  "url": "/rural/regions/southland/locations/te-anau"
+                }
+              ],
+              "heading": {
+                "label": "Southland"
+              }
+            }
+          ],
+          "title": "South Island"
+        }
+      ],
+      "secondary": {
+        "slots": {
+          "major": {
+            "modules": []
+          },
+          "minor": {
+            "modules": []
+          },
+          "right": {
+            "modules": []
+          }
+        }
+      },
+      "type": "layout"
+    },
+    "location": {
+      "favouriteKey": "christchurch",
+      "favouriteType": "urban",
+      "key": "christchurch",
+      "label": "Christchurch Central",
+      "type": "urban",
+      "websiteLocation": "christchurch",
+      "websiteSection": "urban"
+    },
+    "metadata": {
+      "appleItunesApp": "app-id=525900888",
+      "author": "MetService",
+      "canonicalUrl": "https://www.metservice.com/towns-cities/locations/christchurch/past-weather",
+      "description": "Christchurch Central past weather information for yesterday, last 30 days and historical data including rainfall, temperature and peak wind gust. MetService is New Zealand\u2019s national weather authority, providing accurate town, city and rural forecasts across the country.",
+      "googlePlayApp": "app-id=com.metservice.phone.android",
+      "image": null,
+      "keywords": "New Zealand,Zealand,New Zealand weather,NZ,NZ Weather,weather forecast,weather conditions,weather information,Urban,Rural,Town,City, Suburban,Humidity,Pressure,temperature,current temperature,rain,rainfall,raining,wind,windy,gale,gusts,historic weather,past weather,maps,weather maps,radar,rain radar,tides, sun, pollen, UV",
+      "siteName": "MetService",
+      "title": "Christchurch Central Past Weather Observations - MetService New Zealand",
+      "twitterSite": "@metservicenz"
+    },
+    "searchLabel": "Christchurch Central - Past Weather",
+    "type": "screen",
+    "url": "/towns-cities/locations/christchurch/past-weather"
+  }
+]
