@@ -1,0 +1,2 @@
+# group jsonline files in with JSON
+*.jl  linguist-language=JSON
